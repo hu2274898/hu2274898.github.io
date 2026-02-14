@@ -29,8 +29,9 @@ layout: compress
 
     {% include scripts.html %}
 
+    <!-- === 兔子代码放在这里最完美 (body结束之前) === -->
     <div id="wandering-rabbit" style="position: fixed; z-index: 9999; width: 80px; height: auto; pointer-events: none; left: 0; top: 0; transition: transform 0.2s;">
-      <img src="{{ site.baseurl }}/images/tt.gif" style="width: 100%;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhiNzY1MzY4OGQ2NTRiNDQ2NTRhN2Y4M2E4NTRhN2Y4M2E4NTRhJmN0PXM/3o7TKMt1VVNkHVyPaE/giphy.gif" style="width: 100%;">
     </div>
 
     <script>
@@ -38,8 +39,8 @@ layout: compress
         var rabbit = document.getElementById('wandering-rabbit');
         var x = 0;
         var y = 0;
-        var stepX = 2;
-        var stepY = 2; 
+        var stepX = 2; // 水平速度
+        var stepY = 2; // 垂直速度
         var screenW = window.innerWidth - 80;
         var screenH = window.innerHeight - 80;
 
@@ -64,5 +65,7 @@ layout: compress
         moveRabbit();
       })();
     </script>
+    <!-- === 兔子代码结束 === -->
+
   </body>
 </html>
