@@ -27,13 +27,53 @@ layout: compress
       </article>
     </div>
 
-    <!-- 浮动动画图片 -->
-    <div class="floating-image floating-image--top-left">
-      <img src="/images/tt.gif" alt="floating decoration 1">
-    </div>
+    <!-- ========================================== -->
+    <!-- 强制全屏动画补丁 (无需编译，直接生效) -->
+    <!-- ========================================== -->
+    <style>
+      /* 1. 定义动画关键帧 */
+      @keyframes float-fullscreen-1 {
+        0%   { top: 5%; left: 5%; transform: scale(1) rotate(0deg); }
+        25%  { top: 20%; left: 80%; transform: scale(1.1) rotate(45deg); }
+        50%  { top: 70%; left: 10%; transform: scale(0.9) rotate(-30deg); }
+        75%  { top: 40%; left: 85%; transform: scale(1.05) rotate(90deg); }
+        100% { top: 5%; left: 5%; transform: scale(1) rotate(0deg); }
+      }
 
+      /* 2. 图片基础样式 */
+      .floating-image {
+        position: fixed !important; /* 必须是 fixed */
+        z-index: 2147483647 !important; /* 保证在所有图层最上面 */
+        width: 150px; /* 控制图片大小 */
+        height: auto;
+        pointer-events: none; /* 让鼠标穿透，不影响点击网页 */
+        user-select: none;
+        
+        /* 这里的动画设置是关键 */
+        animation: float-fullscreen-1 15s ease-in-out infinite; 
+        
+        /* 初始位置，防止动画加载前闪烁 */
+        top: 5%;
+        left: 5%;
+      }
+
+      /* 3. 手机端适配 (可选) */
+      @media (max-width: 768px) {
+        .floating-image {
+          width: 80px; /* 手机上改小一点 */
+        }
+      }
+    </style>
+
+    <!-- HTML 结构 -->
+    <div class="floating-image">
+      <!--  路径里加了 baseurl 比较保险，如果没有 baseurl 可以删掉 {{ site.baseurl }} -->
+      <img src="{{ site.baseurl }}/images/tt.gif" style="width: 100%; display: block;" alt="floating pet">
+    </div>
+    <!-- ========================================== -->
 
     {% include scripts.html %}
 
   </body>
 </html>
+
