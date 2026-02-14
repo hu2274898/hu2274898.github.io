@@ -29,5 +29,40 @@ layout: compress
 
     {% include scripts.html %}
 
+    <div id="wandering-rabbit" style="position: fixed; z-index: 9999; width: 80px; height: auto; pointer-events: none; left: 0; top: 0; transition: transform 0.2s;">
+      <img src="{{ site.baseurl }}/images/tt.gif" style="width: 100%;">
+    </div>
+
+    <script>
+      (function() {
+        var rabbit = document.getElementById('wandering-rabbit');
+        var x = 0;
+        var y = 0;
+        var stepX = 2;
+        var stepY = 2; 
+        var screenW = window.innerWidth - 80;
+        var screenH = window.innerHeight - 80;
+
+        function moveRabbit() {
+          screenW = window.innerWidth - 80;
+          screenH = window.innerHeight - 80;
+          x += stepX;
+          y += stepY;
+
+          if (x > screenW || x < 0) {
+            stepX = -stepX;
+            rabbit.style.transform = (stepX > 0) ? "scaleX(1)" : "scaleX(-1)";
+          }
+          if (y > screenH || y < 0) {
+            stepY = -stepY;
+          }
+
+          rabbit.style.left = x + 'px';
+          rabbit.style.top = y + 'px';
+          requestAnimationFrame(moveRabbit);
+        }
+        moveRabbit();
+      })();
+    </script>
   </body>
 </html>
