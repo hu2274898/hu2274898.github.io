@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🐰 About Me
-Hi, I am a third-year undergraduate student at the School of Biological Science and Medical Engineering, Beihang University. 
+Hi, I am a third-year undergraduate student at [the School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). 
 
-I currently work as a research assistant at the Birth Lab, supervised by Prof. Qiyuan Tian from the School of Biomedical Engineering at Tsinghua University and mentored by Mingxuan Liu. My research interests focus on medical artificial intelligence and deep learning.
+I currently work as a research assistant at [Birth Lab](https://birthlab.github.io/), supervised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from [the School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) and mentored by Mingxuan Liu. My research interests focus on medical artificial intelligence and deep learning.
 
 
 # 🔥 News
