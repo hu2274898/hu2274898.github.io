@@ -16,16 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🐰 About Me
 Hi, I am a third-year undergraduate student at the School of Biological Science and Medical Engineering, Beihang University. 
 
 I currently work as a research assistant at the Birth Lab, supervised by Prof. Qiyuan Tian from the School of Biomedical Engineering at Tsinghua University and mentored by Mingxuan Liu. My research interests focus on medical artificial intelligence and deep learning.
-(You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Feb. 13, 2026*: 🎉🎉 Three abstracts accepted by [OHBM 2026](https://www.humanbrainmapping.org/)
+- *Feb. 04, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026](https://www.ismrm.org/26m/) as **Oral Presentation**!
+- *Jan. 27, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral Presentation**!
 
 # 📝 Publications 
 
