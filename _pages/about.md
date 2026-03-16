@@ -23,7 +23,7 @@ I currently work as a research assistant at [Birth Lab](https://birthlab.github.
 
 
 # 🔥 News
-- *Mar. 15, 2026*: 🎉🎉 One paper accept by [ISBI](https://biomedicalimaging.org/2026/) 2026.
+- *Mar. 15, 2026*: 🎉🎉 One paper accept by [ISBI 2026](https://biomedicalimaging.org/2026/)
 - *Feb. 13, 2026*: 🎉🎉 Three abstracts accepted by [OHBM 2026](https://www.humanbrainmapping.org/)
 - *Feb. 04, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026](https://www.ismrm.org/26m/) as **Oral Presentation**!
 - *Jan. 27, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral Presentation**!
