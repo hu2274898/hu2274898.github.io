@@ -1,97 +1,50 @@
----
-layout: compress
----
+<!--
+<style>
+  #random-pet {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 150px; 
+    pointer-events: none; 
+    transition: all 4s ease-in-out;
+    will-change: transform; 
+  }
 
-<!doctype html>
-<html lang="en" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+  @media (max-width: 768px) {
+    #random-pet { width: 80px; }
+  }
+</style>
 
-  <body>
+<div id="random-pet">
+  <img src="{{ site.baseurl }}/images/tt.gif" style="width: 100%; display: block;">
+</div>
+-->
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<script>
+/*
+(function() {
+  const pet = document.getElementById('random-pet');
 
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
-    </div>
+  function random(min, max) {
+    return Math.random() * (max - min) + min;
+  }
 
-    
-    <style>
-      #random-pet {
-        position: fixed;
+  function fly() {
+    const maxX = window.innerWidth - 150; 
+    const maxY = window.innerHeight - 150;
 
-        top: 0;
-        left: 0;
-        z-index: 9999;
-        width: 150px; 
-        pointer-events: none; 
-        
-        transition: all 4s ease-in-out;
-        will-change: transform; 
-      }
+    const randomX = random(0, maxX);
+    const randomY = random(0, maxY);
+    const randomRotate = random(-20, 20);
+    const randomScale = random(0.8, 1.1);
 
-      @media (max-width: 768px) {
-        #random-pet { width: 80px; }
-      }
-    </style>
+    pet.style.transform = `translate3d(${randomX}px, ${randomY}px, 0) rotate(${randomRotate}deg) scale(${randomScale})`;
+  }
 
-    <div id="random-pet">
-      <img src="{{ site.baseurl }}/images/tt.gif" style="width: 100%; display: block;">
-    </div>
-
-    <script>
-      (function() {
-        const pet = document.getElementById('random-pet');
-        
-
-        function random(min, max) {
-          return Math.random() * (max - min) + min;
-        }
-
-        function fly() {
-
-          const maxX = window.innerWidth - 150; 
-          const maxY = window.innerHeight - 150;
-
-
-          const randomX = random(0, maxX);
-          const randomY = random(0, maxY);
-          
-
-          const randomRotate = random(-20, 20);
-          
-
-          const randomScale = random(0.8, 1.1);
-
-
-          pet.style.transform = `translate3d(${randomX}px, ${randomY}px, 0) rotate(${randomRotate}deg) scale(${randomScale})`;
-        }
-
-
-        setTimeout(fly, 100);
-
-
-        setInterval(fly, 4000);
-        
-        window.addEventListener('resize', fly);
-      })();
-    </script>
-    
-    <!-- ========================================== -->
-
-    {% include scripts.html %}
-  </body>
-</html>
-
+  setTimeout(fly, 100);
+  setInterval(fly, 4000);
+  window.addEventListener('resize', fly);
+})();
+*/
+</script>
