@@ -23,6 +23,7 @@ I currently work as a research assistant at [Birth Lab](https://birthlab.github.
 
 
 # 🔥 News
+- *May. 08, 2026*: 🎉🎉 Two paper early accept by [MICCAI 2026](https://conferences.miccai.org/2026/en/)
 - *Mar. 15, 2026*: 🎉🎉 One paper accept by [ISBI 2026](https://biomedicalimaging.org/2026/)
 - *Feb. 13, 2026*: 🎉🎉 Three abstracts accepted by [OHBM 2026](https://www.humanbrainmapping.org/)
 - *Feb. 04, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026](https://www.ismrm.org/26m/) as **Oral Presentation**!
@@ -31,6 +32,13 @@ I currently work as a research assistant at [Birth Lab](https://birthlab.github.
 # 📝 Publications
 
 ## Conference Papers
+- FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis  
+  **X. Hu**#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
+  
+- R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound  
+  Y. Wang#, Y. Chen#, B. Wu, M. Liu, **X. Hu**, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
 
 - INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI  
   **X. Hu**, M. Liu, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
@@ -58,10 +66,6 @@ I currently work as a research assistant at [Birth Lab](https://birthlab.github.
 
 ## Under Review
 
-- FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis  
-  **X. Hu**#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [code]
-
 - INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI  
   **X. Hu**#, M. Liu#, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
   International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [code]
@@ -70,9 +74,6 @@ I currently work as a research assistant at [Birth Lab](https://birthlab.github.
   H. Yang#, M. Liu#, Y. Hao#, **X. Hu**, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*  
   International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [code]
 
-- R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound  
-  Y. Wang#, Y. Chen#, B. Wu, M. Liu, **X. Hu**, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [code]
 
 - FetMRIE: Unsupervised Fetal Brain MRI Image Enhancement with Anatomical Fidelity via Adaptive State-Matching Denoising Diffusion  
   Y. Hao#, Y. Luo#, M. Liu#, H. Yang, J. Zhu, **X. Hu**, K. Anmahapong, Z. Li, Y. Li, Y. Chen, J. Liu, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
