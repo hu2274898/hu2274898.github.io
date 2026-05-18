@@ -35,10 +35,6 @@ I currently work as a research assistant at [Birth Lab](https://birthlab.github.
 - FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis  
   **X. Hu**#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*  
   International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
-  
-- R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound  
-  Y. Wang#, Y. Chen#, B. Wu, M. Liu, **X. Hu**, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
 
 - INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI  
   **X. Hu**, M. Liu, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
@@ -47,6 +43,10 @@ I currently work as a research assistant at [Birth Lab](https://birthlab.github.
 - Benchmarking Spatiotemporal Fetal Brain Atlas Construction  
   **X. Hu**, M. Liu, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
   **OHBM** Annual Meeting (**OHBM**), 2026 (Poster)
+  
+- R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound  
+  Y. Wang#, Y. Chen#, B. Wu, M. Liu, **X. Hu**, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
 
 - BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation  
   Y. Li, M. Liu, H. Yang, **X. Hu**, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*  
