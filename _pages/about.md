@@ -20,6 +20,7 @@ redirect_from:
 Hi, I am a third-year undergraduate student at [the School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). 
 
 I currently work as a research assistant at [Birth Lab](https://birthlab.github.io/), supervised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from [the School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) and mentored by Mingxuan Liu. My research interests focus on medical artificial intelligence and deep learning.
+
 You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) here
 
 
