@@ -21,10 +21,16 @@ Hi, I am a third-year undergraduate student at [the School of Biological Science
 
 I currently work as a research assistant at [Birth Lab](https://birthlab.github.io/), supervised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from [the School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) and mentored by Mingxuan Liu. My research interests focus on medical artificial intelligence and deep learning.
 
+
+
 You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) here.
+
+‼️‼️ **I am actively seeking research collaborations and internship opportunities in LLMs, AI agents, and other related areas, please feel free to contact me.**
+
 
 
 # 🔥 News
+- *May. 27, 2026*: 💯💯 Receive an offer from **MMLab@CUHK**, one of my dream labs. I am truly grateful.
 - *May. 08, 2026*: 🎉🎉 Two paper early accept by [MICCAI 2026](https://conferences.miccai.org/2026/en/)
 - *Mar. 15, 2026*: 🎉🎉 One paper accept by [ISBI 2026](https://biomedicalimaging.org/2026/)
 - *Feb. 13, 2026*: 🎉🎉 Three abstracts accepted by [OHBM 2026](https://www.humanbrainmapping.org/)
