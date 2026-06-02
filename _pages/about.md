@@ -39,35 +39,35 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 
 ## Conference Papers
 - FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis  
-  **X. Hu**#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*  
+  <span style="color:#C00000;">**X. Hu**</span>#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*  
   International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
 
 - INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI  
-  **X. Hu**, M. Liu, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
+  <span style="color:#C00000;">**X. Hu**</span>, M. Liu, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
   ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging, 2026 (**ISMRM**, Oral)
 
 - Benchmarking Spatiotemporal Fetal Brain Atlas Construction  
-  **X. Hu**, M. Liu, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
+  <span style="color:#C00000;">**X. Hu**</span>, M. Liu, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
   **OHBM** Annual Meeting (**OHBM**), 2026 (Poster)
   
 - R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound  
-  Y. Wang#, Y. Chen#, B. Wu, M. Liu, **X. Hu**, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*  
+  Y. Wang#, Y. Chen#, B. Wu, M. Liu, <span style="color:#C00000;">**X. Hu**</span>, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*  
   International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
 
 - BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation  
-  Y. Li, M. Liu, H. Yang, **X. Hu**, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*  
+  Y. Li, M. Liu, H. Yang, <span style="color:#C00000;">**X. Hu**</span>, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*  
   ISMRM & ISMRT Annual Meeting & Exhibition (**ISMRM**), 2026 (Oral)
 
 - DIMONER: Diffusion Model Optimization via Implicit Neural Representations with Signal Embedding  
   Z. Li, J. Zheng, H. Yang, M. Liu, **X. Hu**, Y. Li, H. Liao, and Q. Tian*  
-  **OHBM** Annual Meeting (**OHBM**), 2026 (Poster)
+  <span style="color:#C00000;">**X. Hu**</span> Annual Meeting (**OHBM**), 2026 (Poster)
 
 - Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis  
-  Y. Li, M. Liu, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, **X. Hu**, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*  
+  Y. Li, M. Liu, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, <span style="color:#C00000;">**X. Hu**</span>, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*  
   **OHBM** Annual Meeting (**OHBM**), 2026 (Poster)
   
 - View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis  
-  Z. Gao#, C. Zhang#, M. Liu, Y. Chen, **X. Hu**, and Q. Tian*  
+  Z. Gao#, C. Zhang#, M. Liu, Y. Chen, <span style="color:#C00000;">**X. Hu**</span>, and Q. Tian*  
   IEEE International Symposium on Biomedical Imaging (**ISBI**), 2026 (Challenge Paper)
 
 ## Under Review
