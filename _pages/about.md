@@ -59,8 +59,8 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
   ISMRM & ISMRT Annual Meeting & Exhibition (**ISMRM**), 2026 (Oral)
 
 - DIMONER: Diffusion Model Optimization via Implicit Neural Representations with Signal Embedding  
-  Z. Li, J. Zheng, H. Yang, M. Liu, **X. Hu**, Y. Li, H. Liao, and Q. Tian*  
-  <span style="color:#C00000;">**X. Hu**</span> Annual Meeting (**OHBM**), 2026 (Poster)
+  Z. Li, J. Zheng, H. Yang, M. Liu,  <span style="color:#C00000;">**X. Hu**</span>, Y. Li, H. Liao, and Q. Tian*  
+  **OHBM** Annual Meeting (**OHBM**), 2026 (Poster)
 
 - Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis  
   Y. Li, M. Liu, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, <span style="color:#C00000;">**X. Hu**</span>, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*  
