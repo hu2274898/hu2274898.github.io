@@ -78,7 +78,7 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 
 
 - INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI  
-  **X. Hu**#, M. Liu#, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
+  <span style="color:#C00000;">**X. Hu**</span>, M. Liu#, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
   International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [[Paper]](https://arxiv.org/pdf/2605.09977) [[code]](https://github.com/hu2274898/INFANiTE)
 
 - Simple Baselines for Fetal Brain Unsupervised Anomaly Detection  
