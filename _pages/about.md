@@ -40,7 +40,7 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 ## Conference Papers
 - FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis  
   <span style="color:#C00000;">**X. Hu**</span>#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
+  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [[Paper]](https://arxiv.org/pdf/2603.09733) [[code]](https://github.com/hu2274898/FetalAgents)
 
 - INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI  
   <span style="color:#C00000;">**X. Hu**</span>, M. Liu, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
@@ -72,9 +72,14 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 
 ## Under Review
 
+- FetUSAgents: Towards Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration  
+  <span style="color:#C00000;"><strong>X. Hu</strong></span>#, M. Liu#, J. Huang#, K. Anmahapong, Y. Chen, Y. Huang, X. Bai, Z. Li, H. Yang, Y. Hao, H. Xu, Y. Jiang, T. Tian, Y. Liao, H. Qu*, and Q. Tian*  
+  Submit to Medical Image Analysis (**MedIA**). arXiv preprint. [[Paper]](https://arxiv.org/abs/2605.25357) [[code]](https://github.com/hu2274898/FetUSAgents)
+
+
 - INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI  
   **X. Hu**#, M. Liu#, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [code]
+  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [[Paper]](https://arxiv.org/pdf/2605.09977) [[code]](https://github.com/hu2274898/INFANiTE)
 
 - Simple Baselines for Fetal Brain Unsupervised Anomaly Detection  
   H. Yang#, M. Liu#, Y. Hao#, **X. Hu**, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*  
