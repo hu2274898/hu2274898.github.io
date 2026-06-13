@@ -74,25 +74,25 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 
 - FetUSAgents: Towards Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration  
   <span style="color:#C00000;"><strong>X. Hu</strong></span>#, M. Liu#, J. Huang#, K. Anmahapong, Y. Chen, Y. Huang, X. Bai, Z. Li, H. Yang, Y. Hao, H. Xu, Y. Jiang, T. Tian, Y. Liao, H. Qu*, and Q. Tian*  
-  Submit to Medical Image Analysis (**MedIA**). arXiv preprint. [[Paper]](https://arxiv.org/abs/2605.25357) [[code]](https://github.com/hu2274898/FetUSAgents)
+  Medical Image Analysis (**MedIA**), Under Review. [[Paper]](https://arxiv.org/abs/2605.25357) [[code]](https://github.com/hu2274898/FetUSAgents)
 
-
+## Planned submission
 - INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI  
   <span style="color:#C00000;">**X. Hu**</span>, M. Liu#, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [[Paper]](https://arxiv.org/pdf/2605.09977) [[code]](https://github.com/hu2274898/INFANiTE)
+  [[Paper]](https://arxiv.org/pdf/2605.09977) [[code]](https://github.com/hu2274898/INFANiTE)
 
 - Simple Baselines for Fetal Brain Unsupervised Anomaly Detection  
   H. Yang#, M. Liu#, Y. Hao#, **X. Hu**, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [code]
+  [code]
 
 
 - FetMRIE: Unsupervised Fetal Brain MRI Image Enhancement with Anatomical Fidelity via Adaptive State-Matching Denoising Diffusion  
   Y. Hao#, Y. Luo#, M. Liu#, H. Yang, J. Zhu, **X. Hu**, K. Anmahapong, Z. Li, Y. Li, Y. Chen, J. Liu, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review [code]
+  [code]
 
 - Maximizing Domain Generalization in Automated Fetal Brain Biometry  
   Y. Li#, M. Liu#, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, **X. Hu**, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Under Review
+  [code]
 
 # 🎖 Honors and Awards
 - *2025* National Scholarship (Top 0.2% nationwide)
