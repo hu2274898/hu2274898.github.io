@@ -28,6 +28,8 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 
 
 # 🔥 News
+- *Aug. 08, 2026*: 🎉🎉 One paper accept by [BMVC 2026](https://bmvc2026.bmva.org/)
+- *Aug. 01, 2026*: 🎉🎉 One paper accept by [PIPPI 2026](https://pippiworkshop.github.io/)
 - *May. 27, 2026*: 💯💯 Receive an offer from <span style="color:#C00000;">**MMLab@CUHK**</span>, one of my dream labs. I am truly grateful.
 - *May. 08, 2026*: 🎉🎉 Two paper early accept by [MICCAI 2026](https://conferences.miccai.org/2026/en/)
 - *Mar. 15, 2026*: 🎉🎉 One paper accept by [ISBI 2026](https://biomedicalimaging.org/2026/)
@@ -45,14 +47,22 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 - INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI  
   <span style="color:#C00000;">**X. Hu**</span>, M. Liu, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
   ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging, 2026 (**ISMRM**, Oral)
-
+  
 - Benchmarking Spatiotemporal Fetal Brain Atlas Construction  
   <span style="color:#C00000;">**X. Hu**</span>, M. Liu, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*  
   **OHBM** Annual Meeting (**OHBM**), 2026 (Poster)
+
+- Maximizing Domain Generalization in Automated Fetal Brain Biometry  
+  Y. Li#, M. Liu#, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, <span style="color:#C00000;">**X. Hu**</span>, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2026
+
+- FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation
+  Y. Luo#, Y. Li#, M. Liu#, Y. Liao, K. Anmahapong, H. Yang, Y. Chen, <span style="color:#C00000;">**X. Hu**</span>, H. Qu, and Q. Tian*
+  British Machine Vision Conference, 2026
   
 - R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound  
   Y. Wang#, Y. Chen#, B. Wu, M. Liu, <span style="color:#C00000;">**X. Hu**</span>, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), Early Aceept (Top 9%) [code]
+  MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis, 2026, Oral [code]
 
 - BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation  
   Y. Li, M. Liu, H. Yang, <span style="color:#C00000;">**X. Hu**</span>, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*  
@@ -76,10 +86,11 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
   <span style="color:#C00000;"><strong>X. Hu</strong></span>#, M. Liu#, J. Huang#, K. Anmahapong, Y. Chen, Y. Huang, X. Bai, Z. Li, H. Yang, Y. Hao, H. Xu, Y. Jiang, T. Tian, Y. Liao, H. Qu*, and Q. Tian*  
   Medical Image Analysis (**MedIA**), Under Review. [[Paper]](https://arxiv.org/abs/2605.25357) [[code]](https://github.com/hu2274898/FetUSAgents)
 
-## Planned submission
 - INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI  
   <span style="color:#C00000;">**X. Hu**</span>, M. Liu#, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
   [[Paper]](https://arxiv.org/pdf/2605.09977) [[code]](https://github.com/hu2274898/INFANiTE)
+
+## Planned submission
 
 - Simple Baselines for Fetal Brain Unsupervised Anomaly Detection  
   H. Yang#, M. Liu#, Y. Hao#, **X. Hu**, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*  
@@ -90,9 +101,7 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
   Y. Hao#, Y. Luo#, M. Liu#, H. Yang, J. Zhu, **X. Hu**, K. Anmahapong, Z. Li, Y. Li, Y. Chen, J. Liu, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
   [code]
 
-- Maximizing Domain Generalization in Automated Fetal Brain Biometry  
-  Y. Li#, M. Liu#, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, **X. Hu**, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*  
-  [code]
+
 
 # 🎖 Honors and Awards
 - *2025* National Scholarship (Top 0.2% nationwide)
