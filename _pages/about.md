@@ -21,7 +21,7 @@ Hi, I am a third-year undergraduate student at [the School of Biological Science
 
 I currently work as a research assistant at [the School of Biomedical Engineering, Tsinghua University](https://www.med.tsinghua.edu.cn/). 
 
-You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) here.
+You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) or [CV_Chinese](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_Chinese.pdf) here.
 
 ‼️‼️ **I am actively seeking research collaborations and internship opportunities in LLMs, AI agents, and other related areas, please feel free to contact me.**
 
