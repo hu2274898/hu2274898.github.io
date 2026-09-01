@@ -23,7 +23,7 @@ I currently work as a research assistant at [the School of Biomedical Engineerin
 
 You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) or [CV_Chinese](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_Chinese.pdf) here.
 
-‼️‼️ **I am actively seeking research collaborations and internship opportunities in LLMs, AI agents, and other related areas, please feel free to contact me.**
+‼️‼️ **I am actively seeking research collaborations and internship opportunities in LLMs, AI agents, VLM and other related areas, please feel free to contact me.** [WeChat](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/WeChat.jpg) or [Email](hu2274898@gmail.com)
 
 
 
