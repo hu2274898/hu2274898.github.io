@@ -28,6 +28,7 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 
 
 # 🔥 News
+- *Sep. 02, 2026*: 💯💯 Receive an official offer from <span style="color:#C00000;">**Tsinghua University**</span>. I plan to pursue a master's degree in the EE program.
 - *Aug. 08, 2026*: 🎉🎉 One paper accept by [BMVC 2026](https://bmvc2026.bmva.org/)
 - *Aug. 01, 2026*: 🎉🎉 One paper accept by [PIPPI 2026](https://pippiworkshop.github.io/)
 - *May. 27, 2026*: 💯💯 Receive an offer from <span style="color:#C00000;">**MMLab@CUHK**</span>, one of my dream labs. I am truly grateful.
@@ -133,4 +134,4 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.06 - 2026.08*, FacePhys (HCI Lab at Tsinghua CS), Algorithm Engineer, China.
