@@ -28,6 +28,7 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 
 
 # 🔥 News
+- *Sep. 24, 2026*: 🎉🎉 One paper accept by [BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/)
 - *Sep. 02, 2026*: 💯💯 Receive an official offer from <span style="color:#C00000;">**Tsinghua University**</span>. I plan to pursue a master's degree in the EE program.
 - *Aug. 08, 2026*: 🎉🎉 One paper accept by [BMVC 2026](https://bmvc2026.bmva.org/)
 - *Aug. 01, 2026*: 🎉🎉 One paper accept by [PIPPI 2026](https://pippiworkshop.github.io/)
