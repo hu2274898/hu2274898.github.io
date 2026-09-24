@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🐰 About Me
-Hi, I am a final-year undergraduate student at [the School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). 
+Hi, I am a final-year undergraduate student at [the School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), and I will pursue an M.Eng. in Electronic Information at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I'm now work with [HKU MHI Lab](https://mhi-lab.github.io/mhi-lab-website/) and [Tsinghua BIRTH Lab](https://www.med.tsinghua.edu.cn/). 
+I'm now with [HKU MHI Lab](https://mhi-lab.github.io/mhi-lab-website/) and [Tsinghua BIRTH Lab](https://birthlab.github.io/), and an upcoming research experience at [NJU IS](https://is.nju.edu.cn).
 
 You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) or [CV_Chinese](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_Chinese.pdf) here.
 
