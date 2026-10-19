@@ -55,6 +55,10 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
 - Maximizing Domain Generalization in Automated Fetal Brain Biometry  
   Y. Li#, M. Liu#, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, <span style="color:#C00000;">**X. Hu**</span>, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*  
   International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2026
+  
+- Simple Baselines for Fetal Brain Unsupervised Anomaly Detection  
+  H. Yang#, M. Liu#, Y. Hao#, **X. Hu**, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*
+  International Conference on Bioinformatics and Biomedicine (BIBM), 2026
 
 - FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation
   Y. Luo#, Y. Li#, M. Liu#, Y. Liao, K. Anmahapong, H. Yang, Y. Chen, <span style="color:#C00000;">**X. Hu**</span>, H. Qu, and Q. Tian*
@@ -90,12 +94,11 @@ You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/
   <span style="color:#C00000;">**X. Hu**</span>, M. Liu#, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
   [[Paper]](https://arxiv.org/pdf/2605.09977) [[code]](https://github.com/hu2274898/INFANiTE)
 
+- templar: agentic induction and evolution of standardized radiology reporting templates from large-scale clinical corpora 
+  <span style="color:#C00000;">**X. Hu**</span>, M. Liu#, Z. Wang, X. Zhang, Y. Huang, Z. Wang, K. Anmahapong, Y. Li, Y. Chen, H. Yang, Z. Li and Q. Tian* 
+  [[Paper]](https://arxiv.org/pdf/2610.05247) 
+
 ## Planned submission
-
-- Simple Baselines for Fetal Brain Unsupervised Anomaly Detection  
-  H. Yang#, M. Liu#, Y. Hao#, **X. Hu**, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*  
-  [code]
-
 
 - FetMRIE: Unsupervised Fetal Brain MRI Image Enhancement with Anatomical Fidelity via Adaptive State-Matching Denoising Diffusion  
   Y. Hao#, Y. Luo#, M. Liu#, H. Yang, J. Zhu, **X. Hu**, K. Anmahapong, Z. Li, Y. Li, Y. Chen, J. Liu, G. Ning, Y. Liao, H. Qu, and Q. Tian*  
