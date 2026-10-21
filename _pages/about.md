@@ -19,7 +19,7 @@ redirect_from:
 # 🐰 About Me
 Hi, I am a final-year undergraduate student at [the School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), and I will pursue an M.Eng. in Electronic Information at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) or [CV_Chinese] (latest)(https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_Chinese.pdf) here.
+You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) or [CV_Chinese](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_Chinese.pdf) (latest) here.
 
 ‼️‼️ **I am actively seeking research collaborations and internship opportunities in LLMs, AI agents, VLMs and other related areas, please feel free to contact me.** [WeChat](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/WeChat.jpg) or [Email](mailto:hu2274898@gmail.com)
 
