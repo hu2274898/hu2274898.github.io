@@ -19,8 +19,6 @@ redirect_from:
 # 🐰 About Me
 Hi, I am a final-year undergraduate student at [the School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), and I will pursue an M.Eng. in Electronic Information at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-Previously, I worked with Beihang BME (Mentor: [Zhiwen Yang](https://github.com/Yaziwel), Supervisor: [Yan Xu](https://scholar.google.com/citations?hl=en&user=D01Xtx4AAAAJ&view_op=list_works&sortby=pubdate)), FacePhys and Tsinghua CS (Mentor: [Jiankai Tang](https://mcjacktang.github.io/)). Currently, I maintain collaborations with the HKU ECE (Mentor: [Luyao Tang](https://lytang63.github.io/), Supervisor: [Cheng Chen](https://cchen-cc.github.io/)), and Tsinghua BME (Mentor: [Mingxuan Liu](https://mingxuanliu.arktisx.cn/), Supervisor: [Qiyuan Tian](https://birthlab.github.io/)). I will soon join Alibaba as a MLLMs Algorithm Engineer and collaborate with Oxford ([Yingqi Hao](https://yingqihao2022.github.io/)).
-
 You can find my [CV](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_(XiaotianHu).pdf) or [CV_Chinese](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/CV_Chinese.pdf) (latest) here.
 
 ‼️‼️ **I am actively seeking research collaborations and internship opportunities in LLMs, AI agents, VLMs and other related areas, please feel free to contact me.** [WeChat](https://github.com/hu2274898/hu2274898.github.io/blob/main/images/WeChat.jpg) or [Email](mailto:hu2274898@gmail.com)
